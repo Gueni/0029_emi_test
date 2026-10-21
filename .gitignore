@@ -1,0 +1,9 @@
+# LTspice generated output
+*.raw
+*.log
+*.net
+*.plt
+*.fft
+*.mout
+*.bak
+*.tmp
